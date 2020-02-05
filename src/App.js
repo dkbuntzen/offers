@@ -28,6 +28,7 @@ const App = () => {
 
   useInterval(() => {
     // We can do this because we know we are going up numerically
+    // This would not work if we were able to delete items
     const nextIndex = Object.keys(offers).length;
 
     const newOffers = {
