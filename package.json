@@ -1,0 +1,19 @@
+{
+  "name": "offers",
+  "version": "1.0.0",
+  "description": "pocketcoach assessment",
+  "main": "index.js",
+  "author": "Dieter <dkbuntzen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "dev": "parcel public/index.html",
+    "build": "parcel build public/index.html"
+  }
+}

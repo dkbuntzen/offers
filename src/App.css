@@ -1,0 +1,10 @@
+body {
+  background-color: cornflowerblue;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px rgba(0,0,0,0.3);
+}
